@@ -48,7 +48,7 @@ gem 'paper_trail'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 
 gem 'friendly_id', '~> 5.1.0'
 
